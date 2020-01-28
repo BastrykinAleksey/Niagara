@@ -4922,3 +4922,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.28-22.11.06:856][495]LogPlayLevel: Display: Destroying online subsystem :Context_15
 [2020.01.28-22.11.08:958][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.01.28-22.11.17:261][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.01.28-22.19.55:921][769]LogSlate: Window 'Asset Report' being destroyed
+[2020.01.28-22.21.04:335][380]LogAssetEditorManager: Opening Asset editor for NiagaraSystem /Game/Test/MagicBall/SourceEmitter_System.SourceEmitter_System
+[2020.01.28-22.21.04:405][380]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Angle Message: No input found with name = 'Module.Mask Curl Noise'
+[2020.01.28-22.21.04:405][380]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Falloff Angle Message: No input found with name = 'Module.Mask Curl Noise'
+[2020.01.28-22.21.04:406][380]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Axis Message: No input found with name = 'Module.Mask Curl Noise'
+[2020.01.28-22.21.04:468][380]59880_SourceEmitter_System_MessageLog: System successfully compiled.
+[2020.01.28-22.22.01:128][317]LogWindows: LaunchURL http://docs.unrealengine.com/latest/RUS/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2020.01.28-22.23.34:044][ 82]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.01.28-22.23.34:655][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.01.28-22.23.34:737][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.01.28-22.23.35:182][ 82]LogSavePackage: Moving 'Z:/UnrealProject/MistHoud/Saved/ThirdPersonExampleMapC29631234AF428E56D7D749975F71900.tmp' to 'Z:/UnrealProject/MistHoud/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.28-22.23.35:789][ 82]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.099
+[2020.01.28-22.23.36:570][113]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2020.01.28-22.23.36:955][113]LogSavePackage: Moving 'Z:/UnrealProject/MistHoud/Saved/ThirdPersonExampleMap78AF477A41CEC25630847382DA2383B5.tmp' to 'Z:/UnrealProject/MistHoud/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.28-22.23.36:987][113]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.541
